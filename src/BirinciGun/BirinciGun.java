@@ -11,6 +11,7 @@ public class BirinciGun {
 		System.out.println("10:35 - Ikinci Gun");
 		System.out.println("11:05 - local");
 		
+		
 	}
 
 }
