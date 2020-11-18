@@ -13,7 +13,9 @@ public class BirinciGun {
 		System.out.println("11:23 - github.com");
 		System.out.println("ben buradan conflict beklemiyorum");
 		System.out.println("yepyeni bir satir");
-
+		System.out.println("10:26 - feature branch");
+		
+		
 	}
 
 }
